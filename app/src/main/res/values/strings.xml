@@ -1,0 +1,65 @@
+<resources>
+
+
+    <string name="app_name">Swapper</string>
+
+    <!--Fragment Names -->
+    <string name="fragment_search">Search</string>
+    <string name="fragment_watch_list">Watch List</string>
+    <string name="fragment_post">Post</string>
+    <string name="fragment_account">Account</string>
+    <string name="fragment_view_post">Post</string>
+
+    <!-- Intent extras and Bundle arguments -->
+    <string name="arg_post_id">arg_post_id</string>
+
+    <string name="dialog_select_photo">SelectPhoto</string>
+
+    <!-- Shared Preferenes -->
+    <string name="preferences_country">preferences_country</string>
+    <string name="preferences_state_province">preferences_state_province</string>
+    <string name="preferences_city">preferences_city</string>
+
+    <!-- Database field names -->
+    <string name="field_password">password</string>
+    <string name="field_user_id">user_id</string>
+    <string name="field_post_id">post_id</string>
+
+    <string name="node_users">users</string>
+    <string name="node_posts">posts</string>
+    <string name="node_elasticsearch">elasticsearch</string>
+    <string name="node_watch_list">watch_list</string>
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered </string>
+    <string name="btn_link_to_login">Already registered.</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your valid Email to sent password reset instructions.</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+</resources>

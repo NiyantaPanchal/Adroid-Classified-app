@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#000000</color>
+    <color name="grey">#c3c3c3 </color>
+    <color name="light_green">#26A69A</color>
+    <color name="lightGrey">#f2f2f2 </color>
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+    <color name="teal1">#00d4c5</color>
+    <color name="teal2">#008ae6</color>
+    <color name="blue2">#99ccff</color>
+    <color name="blue3">#33ccff</color>
+    <color name="blue4">#4795ff</color>
+    <color name="red5">#ff9999</color>
+    <color name="red4">#ff6666</color>
+    <color name="red3">#ff0000</color>
+    <color name="red2">#ff1a1a</color>
+    <color name="green2">#85e085</color>
+    <color name="blue1">#4da6ff</color>
+    <color name="blue5">#455ad3</color>
+    <color name="red1">#ff4d4d</color>
+    <color name="orange1">#ffa733</color>
+    <color name="green1">#33cc33</color>
+    <color name="yellow1">#e6e600</color>
+    <color name="purple1">#8e2bd4</color>
+</resources>

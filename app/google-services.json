@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "976833131706",
+    "firebase_url": "https://swapper-11f26.firebaseio.com",
+    "project_id": "swapper-11f26",
+    "storage_bucket": "swapper-11f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976833131706:android:b87f34cb8e349cfd41be83",
+        "android_client_info": {
+          "package_name": "com.example.swapper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976833131706-pl7moh1qfr44s00ta9vp5sp1mm9rbujn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.swapper",
+            "certificate_hash": "3da1543328e7e89b7a3e77d0fde2dfc03c25ec04"
+          }
+        },
+        {
+          "client_id": "976833131706-7o5jtng9r4ffv96gqlftaqm9jtdl2n8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApuXwvEfSmLcPfUBcD0JjHIdT61_Cl8M8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976833131706-7o5jtng9r4ffv96gqlftaqm9jtdl2n8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
